@@ -7,4 +7,4 @@ var productDetailsInfo = document.querySelector('.product-details-info');
 
 1. Overview video - https://youtu.be/g10CRYedNAw
 2. Copy contents of script.js directly into brower developer console
-3. Widget should display on live sight after pressing ENTER
+3. Widget should display on live site after pressing ENTER
